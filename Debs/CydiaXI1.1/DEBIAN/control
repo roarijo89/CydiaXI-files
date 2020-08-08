@@ -1,8 +1,0 @@
-Architecture: iphoneos-arm
-Author: EvenDev <evflata@gmail.com>
-Description: Cydia, with a little more 11.
-Maintainer: EvenDev <evflata@gmail.com>
-Name: CydiaXI
-Package: us.evendev.cydiaxi
-Section: CydiaXI
-Version: 1.1
