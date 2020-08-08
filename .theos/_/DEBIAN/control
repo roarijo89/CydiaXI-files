@@ -1,0 +1,10 @@
+Package: com.example.cydiaxi
+Name: Cydia2021 test
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: testing for cydia 2021
+Maintainer: Developer
+Author: Developer
+Section: testing deb coco tweaks
+Version: 1.0-1+debug
+Installed-Size: 108

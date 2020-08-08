@@ -1,0 +1,9 @@
+Package: com.example.cydiaxi
+Name: Cydia2021
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: coco!
+Maintainer: Developer
+Author: Developer
+Section: CydiaXI
